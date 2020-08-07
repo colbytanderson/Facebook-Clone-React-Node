@@ -2,14 +2,6 @@
 
 > A facebook clone made with React & NodeJs.
 
-[![Author](https://img.shields.io/badge/author-ViniciusCrisol-blue?style=flat-square)](https://github.com/ViniciusCrisol)
-[![Languages](https://img.shields.io/github/languages/count/ViniciusCrisol/clone-facebook?color=blue&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/ViniciusCrisol/clone-facebook?color=blue&style=flat-square)](https://github.com/ViniciusCrisol/clone-facebook/stargazers)
-
-<br />
-<p align="center"><img src="https://user-images.githubusercontent.com/61323173/86132962-0c3b8000-babe-11ea-9195-5ff90025d500.gif"/></p>
-
-
 
 ---
 
@@ -55,10 +47,4 @@
 # :closed_book: License
 
 Released in 2020.
-This project is under the [MIT license](https://github.com/ViniciusCrisol/clone-facebook/blob/master/LICENSE).
-
----
-
-<p align="center">
-  Made with ❤️ by Vinícius Crisol
-</p>
+This project is under the [MIT license]
